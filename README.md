@@ -6,7 +6,7 @@ This is a Java console-based implementation of the classic game **NIM**, featuri
 
 ---
 
-## ? Game Rules
+## Game Rules
 
 - The game starts with a set of piles containing a number of objects (e.g., 3, 4, 5).
 - Players take turns removing **one or more** objects from a single pile.
@@ -14,7 +14,7 @@ This is a Java console-based implementation of the classic game **NIM**, featuri
 
 ---
 
-## ? Features
+## Features
 
 - Play against another human **or** the computer.
 - AI uses the **Minimax algorithm** with a full game tree evaluation.
@@ -23,7 +23,7 @@ This is a Java console-based implementation of the classic game **NIM**, featuri
 
 ---
 
-## ? File Structure
+## File Structure
 
 | File | Description |
 |------|-------------|
